@@ -2,13 +2,13 @@
 
 Caixas de Diálogo
 
-- [x] prompt
-- [x] alert
-- [x] confirm
+- [ ] prompt
+- [ ] alert
+- [ ] confirm
 
 Temporizador
 
-- [x] setInterval
+- [ ] setInterval
 - [ ] settimeout
 Funções
 
@@ -23,7 +23,7 @@ Funções
 
 Eventos
 
-- [x] Evento de carregamento do documento - onload
+- [ ] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
