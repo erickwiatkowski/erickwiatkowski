@@ -1,9 +1,9 @@
 Caixas de Diálogo
 
-pronto
-alerta
-confirme
-Temporizadores
+pronto 
+alerta  
+confirme 
+Temporizadores 
 
 setInterval
 setTimeout
