@@ -1,5 +1,5 @@
 Prototipo
-https://www.figma.com/file/VWeaWMKshOHbjoftuUt1rd/Untitled?node-id=0%3A1
+[https://www.figma.com/file/VWeaWMKshOHbjoftuUt1rd/Untitled?node-id=0%3A1](https://www.figma.com/file/XhwgftGb8ewkua6xDrOSmt/Untitled?node-id=0%3A1&t=eGfHPS9cnrhcgjUl-1)
 
 
 # Checkist
@@ -13,14 +13,14 @@ Caixas de Diálogo
 Temporizador
 
 - [ ] setInterval
-- [ ] settimeout
+- [x] settimeout
 Funções
 
 - [ ] Função anônima com argumento
 - [ ] Função anônima sem argumento
-- [x] Função anônima com retorno
+- [ ] Função anônima com retorno
 - [ ] Função auto-executável
-- [ ] Função com nome
+- [x] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
 - [ ] Função Flecha - Arrow Function
@@ -36,11 +36,11 @@ Eventos
 
 Acesso aos elementos DOM do HTML
 
-- [ ] Via referência DOM pelo id do elemento HTML
-- [ ] Via getElementByID()
+- [x] Via referência DOM pelo id do elemento HTML
+- [x] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
-- [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
+- [x] Via seletores CSS usados na função querySelector() ou querySelectorAll()
 
 Tratadores de Evento
 
@@ -58,7 +58,7 @@ Objetos Nativos
 
 Objetos
 
-- [ ] Criar objeto usando função construtora ou notação literal
+- [x] Criar objeto usando função construtora ou notação literal
 - [ ] Criar objetos a partir da definição de classes do ES6
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
 
