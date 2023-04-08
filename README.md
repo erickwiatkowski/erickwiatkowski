@@ -12,12 +12,12 @@ Caixas de Diálogo
 
 Temporizador
 
-- [ ] setInterval
+- [x] setInterval
 - [x] settimeout
 Funções
 
 - [ ] Função anônima com argumento
-- [ ] Função anônima sem argumento
+- [x] Função anônima sem argumento
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
 - [x] Função com nome
