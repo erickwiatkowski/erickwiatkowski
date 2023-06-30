@@ -5,9 +5,6 @@ Prototipo
 # projeto para farmacia
 # Checkist
 
-# projeto para farmacia
-# Checkist
-
 Caixas de Diálogo
 
 - [x] prompt
