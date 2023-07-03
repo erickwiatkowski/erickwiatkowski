@@ -55,12 +55,12 @@ Objetos Nativos
 - [x] Usar laço de repetição (for..in ou for..of ou forEach)
 - [x] Usar pelo menos 3 métodos para manipulação de string
 - [x] String Template - a String com crase e ${}
-- [x] Manipulação do CSS de forma nativa via atributo style e classList
+- [x]Manipulação do CSS de forma nativa via atributo style e classList
 
 Objetos
 
 - [ ] Criar objeto usando função construtora ou notação literal
-- [x] (Obrigatório) Criar objetos a partir da definição de classes do ES6 - a classe precisa ser definida em arquivo separado, sendo o nome do arquivo em letras minúsculas no estilo dashed-case e nome da classe em UpperCamelCase
+- [X] (Obrigatório) Criar objetos a partir da definição de classes do ES6 - a classe precisa ser definida em arquivo separado, sendo o nome do arquivo em letras minúsculas no estilo dashed-case e nome da classe em UpperCamelCase
 - [ ] Usar herança prototipal nativa ou herança de classes do ES6
 
 Qualidade do código
@@ -83,7 +83,7 @@ Formulário
   - [x] Usar expressões regulares para validação - usar no atributo pattern do respectivo input
 - [x] Ler e escrever em elementos input com a propriedade value
 - [x] Alterar o conteúdo de elementos div ou p com a propriedade innerHTML ou textContent
-- [ ] Manipulação de elemento de listagem, como checkbox, radio ou select
+- [x] Manipulação de elemento de listagem, como checkbox, radio ou select
 - [x] Acesso aos elementos de um formulário via hierarquia (caminho) de objetos, ou seja, array forms e elements
 
 jQuery
@@ -94,8 +94,8 @@ jQuery
 - [x] Efeitos fade ou slide
 - [x] Especificar o tratador de algum evento via jQuery
 - [x] Manipulação do CSS via função css() e addClass()/removeClass()
-- [ ] Manipulação do conteúdo de um input e div usando jQuery
-- [ ] Aplicar um plugin do jQuery (por exemplo, jQuery Mask Plugin)
+- [x] Manipulação do conteúdo de um input e div usando jQuery
+- [x] Aplicar um plugin do jQuery (por exemplo, jQuery Mask Plugin)
 
 Web Storage
 
@@ -107,5 +107,5 @@ Ajax com Backend
 
 - [ ] Requisições AJAX para uma implementação funcional do backend em ExpressJS na plataforma Node
 - [x] (Obrigatório) Requisições AJAX para uma API Fake - JSON Server 
-- [ ] Requisições AJAX para uma API Rest pública qualquer (Busca CEP API ou IBGE API ou outra).
+- [x] Requisições AJAX para uma API Rest pública qualquer (Busca CEP API ou IBGE API ou outra).
 
